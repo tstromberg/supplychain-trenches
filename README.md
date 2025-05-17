@@ -17,7 +17,7 @@ Projects discussed:
 
 ## Contact
 
-- https://stromberg.org/t/
-- https://triangletoot.party/@thomrstrom
-- https://www.linkedin.com/in/thomas-str%C3%B6mberg-9977261/
-- t%stromberg.org
+- Personal site: https://stromberg.org/t/
+- Social: https://triangletoot.party/@thomrstrom
+- Business: https://www.linkedin.com/in/thomas-str%C3%B6mberg-9977261/
+- Email: t%stromberg.org
