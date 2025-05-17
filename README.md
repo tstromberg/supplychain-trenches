@@ -14,3 +14,10 @@ Projects discussed:
 - https://github.com/DataDog/guarddog
 - https://github.com/DataDog/supply-chain-firewall
 - https://github.com/ossillate-inc/packj
+
+## Contact
+
+- https://stromberg.org/t/
+- https://triangletoot.party/@thomrstrom
+- https://www.linkedin.com/in/thomas-str%C3%B6mberg-9977261/
+- t%stromberg.org
